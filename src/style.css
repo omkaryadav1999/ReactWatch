@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    text-align: center;
+}
+
+.timeDiv {
+    padding: 50px;
+    background-color: darkgray;
+    border: 1px solid black;
+}
+
+h1 {
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
